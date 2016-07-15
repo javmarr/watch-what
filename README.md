@@ -2,6 +2,9 @@ Watch What?
 =================================
 This is a simple application that will help you find what to watch based on the parameters inputted (year, genre, rating, etc).
 
+[Runit](http://htmlpreview.github.io/?https://github.com/javmarr/watch-what/blob/master/index.html)
+
+
 License
 =======
 
